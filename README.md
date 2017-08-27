@@ -1,7 +1,7 @@
 # Real-Sense
 Checks the activity by Using Gyroscope and Accelerometer
 Detecting Sleep
-![Alt text](https://github.com/CP-OJHA/Real-Sense/blob/master/Screenshot/Screenshot_1503858496.png "Home Screen")<br/>
+![Alt text](https://github.com/CP-OJHA/Real-Sense/blob/master/Screenshot/Screenshot_1503858496%20.png "Home Screen")<br/>
 Detecting Walk
 ![Alt text](https://github.com/CP-OJHA/Real-Sense/blob/master/Screenshot/Screenshot_1503858516.png "Home Screen")<br/>
 Detecting Fall
