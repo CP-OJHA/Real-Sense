@@ -1,0 +1,7 @@
+#Sun Aug 27 23:11:08 IST 2017
+base.0=E\:\\Android\\Project\\Real-Sense\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e5ac980d7dfbae0e5b65f1c0976229e866ff44d4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android\\Project\\Real-Sense\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_90f601aeb6a5f498ecccc5dd6ba8090c01381700\\classes.dex
+base.1=E\:\\Android\\Project\\Real-Sense\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_90f601aeb6a5f498ecccc5dd6ba8090c01381700
+file.0=E\:\\Android\\Project\\Real-Sense\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e5ac980d7dfbae0e5b65f1c0976229e866ff44d4\\classes.dex

@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\353c6f824ebdd7011746fab6577a9eb3c2fd83e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lenovo\.android\build-cache\ee374038368edd7e6118ca3225f9c2286d3e0c8b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lenovo\.android\build-cache\338b085731259cceb26a3d2953d1ed17e368c245\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lenovo\.android\build-cache\a211fb4133d2d458327b399d0966b7952f46e6ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lenovo\.android\build-cache\4a11a3c63c8c611b8b8ef6216757a37312d4f229\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lenovo\.android\build-cache\7742a7d0e3679cd857807b9555d2d6d915f5c26c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\c0c7fb8fe17a4f2840a29e820d9fbdcdda3ed66c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\4b0d3db329653162909e39aba4d94d2f49a3fc14\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lenovo\.android\build-cache\367e721ece474f539d1d9866d8268b1d00b7ba8b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.android\build-cache\a4e233adbc590e570a154dfcb55eea72d3ca2cf1\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.lenovo.real_sense.MainActivity
+ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\353c6f824ebdd7011746fab6577a9eb3c2fd83e7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lenovo\.android\build-cache\ee374038368edd7e6118ca3225f9c2286d3e0c8b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lenovo\.android\build-cache\338b085731259cceb26a3d2953d1ed17e368c245\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lenovo\.android\build-cache\a211fb4133d2d458327b399d0966b7952f46e6ec\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lenovo\.android\build-cache\4a11a3c63c8c611b8b8ef6216757a37312d4f229\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lenovo\.android\build-cache\7742a7d0e3679cd857807b9555d2d6d915f5c26c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\c0c7fb8fe17a4f2840a29e820d9fbdcdda3ed66c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\4b0d3db329653162909e39aba4d94d2f49a3fc14\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lenovo\.android\build-cache\367e721ece474f539d1d9866d8268b1d00b7ba8b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.android\build-cache\a4e233adbc590e570a154dfcb55eea72d3ca2cf1\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\353c6f824ebdd7011746fab6577a9eb3c2fd83e7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Project\Real-Sense\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\353c6f824ebdd7011746fab6577a9eb3c2fd83e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lenovo\.android\build-cache\ee374038368edd7e6118ca3225f9c2286d3e0c8b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lenovo\.android\build-cache\338b085731259cceb26a3d2953d1ed17e368c245\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lenovo\.android\build-cache\a211fb4133d2d458327b399d0966b7952f46e6ec\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lenovo\.android\build-cache\4a11a3c63c8c611b8b8ef6216757a37312d4f229\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lenovo\.android\build-cache\7742a7d0e3679cd857807b9555d2d6d915f5c26c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\c0c7fb8fe17a4f2840a29e820d9fbdcdda3ed66c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\4b0d3db329653162909e39aba4d94d2f49a3fc14\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lenovo\.android\build-cache\367e721ece474f539d1d9866d8268b1d00b7ba8b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\353c6f824ebdd7011746fab6577a9eb3c2fd83e7\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\353c6f824ebdd7011746fab6577a9eb3c2fd83e7\output\AndroidManifest.xml:26:9-47

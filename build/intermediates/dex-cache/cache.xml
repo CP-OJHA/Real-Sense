@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\Project\Real-Sense\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Android\Project\Real-Sense\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_90f601aeb6a5f498ecccc5dd6ba8090c01381700\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Project\Real-Sense\app\libs\GraphView-4.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="E:\Android\Project\Real-Sense\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-4.2.1_d02220ee65bbd1dadbab7285884775e9db9b4017\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Project\Real-Sense\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="512e70363147a0b5159c32183b700897b2692b0c">
+        <dex dex="E:\Android\Project\Real-Sense\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e5ac980d7dfbae0e5b65f1c0976229e866ff44d4\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lenovo.real_sense.MainActivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/graphAccel"
+        android:layout_toEndOf="@+id/Activity"
+        android:text="Accelerometer"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/Activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Sleep"
+        android:textSize="25sp" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graphAccel"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="false"
+        android:layout_below="@+id/Activity"
+        android:layout_marginTop="20dp"
+         />
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graphGyro"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="false"
+        android:layout_below="@+id/graphAccel"
+        android:layout_marginTop="20dp"
+
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_alignTop="@+id/graphGyro"
+        android:text="Gyroscope"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/AX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:text="X :"
+        android:layout_below="@+id/textView3"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/AY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/AX"
+        android:layout_below="@+id/AX"
+        android:layout_marginTop="30dp"
+        android:text="Y :" />
+
+    <TextView
+        android:id="@+id/AZ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/graphGyro"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginBottom="20dp"
+        android:text="Z :" />
+
+    <TextView
+        android:id="@+id/GX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="36dp"
+        android:text="X :" />
+
+    <TextView
+        android:id="@+id/GY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/GX"
+        android:layout_below="@+id/GX"
+        android:layout_marginTop="26dp"
+        android:text="Y :" />
+
+    <TextView
+        android:id="@+id/GZ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/GY"
+        android:layout_below="@+id/GY"
+        android:layout_marginTop="23dp"
+        android:text="Z :" />
+
+</RelativeLayout>
